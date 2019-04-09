@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/Education System
 /.pnp
 .pnp.js
 
